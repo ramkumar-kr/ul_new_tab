@@ -1,0 +1,16 @@
+{
+  "CACHE_KEY": "",
+  "CACHE_VERSION" : 1,
+  "number_of_products": 300,
+  "api_register_url": "",
+  "product_info_api": "",
+  "product_link_url": "",
+  "product_image_fallback_url": "",
+  "search_engines": [{
+    "name": "",
+    "search_url": "",
+    "keyword": ""
+  }],
+  "CACHE_KEY": "",
+  "CACHE_VERSION": ""
+}

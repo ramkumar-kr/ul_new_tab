@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Urbanladder New Tab",
+  "version": "0.0.1",
+  "author": "Ramkumar K R",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "description":"New tab page having urbanladder products",
+  "offline_enabled": true,
+  "permissions": [
+    "tabs",
+    "storage",
+    "https://*.urbanladder.com/*"
+  ],
+  "background":{
+    "scripts": ["js/background.js"],
+    "persistent" :false
+  }
+}
